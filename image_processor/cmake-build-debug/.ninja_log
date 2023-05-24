@@ -1,0 +1,15 @@
+# ninja log v5
+791	1705	1684938668689929731	CMakeFiles/image_processor.dir/gauss.cpp.o	1aa1310c637ad782
+2	663	1684938765977250767	CMakeFiles/image_processor.dir/test.cpp.o	ad31ca3b585d448
+0	13	1684938864077328074	build.ninja	f98a411eda94afd7
+1	790	1684938667773978014	CMakeFiles/image_processor.dir/image.cpp.o	2911c591e5e1804a
+827	1707	1684938668689929731	CMakeFiles/image_processor.dir/crop.cpp.o	e5d9c1fa935ad4a2
+864	1583	1684938668565936264	CMakeFiles/image_processor.dir/pixelization.cpp.o	485667e24c89fee0
+1	827	1684938667805976325	CMakeFiles/image_processor.dir/grayscale.cpp.o	6eba1de997213d72
+1	1338	1684938668321949119	CMakeFiles/image_processor.dir/image_processor.cpp.o	ced5625ca96b00b4
+2	863	1684938667845974213	CMakeFiles/image_processor.dir/negative.cpp.o	b5758b449a239b14
+232	1122	1684938668105960499	CMakeFiles/image_processor.dir/edge.cpp.o	62702f8e7b9bcbb8
+1	932	1684938667917970413	CMakeFiles/image_processor.dir/filter.cpp.o	53573863327f2556
+1	231	1684938667214007574	CMakeFiles/image_processor.dir/color.cpp.o	e3c8ff4a2ad2b621
+1	104	1684938820114996704	image_processor	f4f110df7ac44c79
+0	13	1684938864077328074	build.ninja	f98a411eda94afd7
